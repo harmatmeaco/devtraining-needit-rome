@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="DELETE">
+        <caller_access/>
+        <description/>
+        <event_name>x_58872_needit.NeedIt Event</event_name>
+        <fired_by/>
+        <queue/>
+        <suffix>NeedIt Event</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-02 05:41:11</sys_created_on>
+        <sys_id>c092588a1be770100a9acae0604bcb8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.NeedIt Event</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sysevent_register_c092588a1be770100a9acae0604bcb8b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-02 05:41:11</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sysevent_register>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2eb81d10db047810431011f8489619ae</instance_id>
+        <instance_name>dev113634</instance_name>
+        <name>sysevent_register_c092588a1be770100a9acae0604bcb8b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register"><sysevent_register action="INSERT_OR_UPDATE"><caller_access/><description/><event_name>x_58872_needit.NeedIt Event</event_name><fired_by/><queue/><suffix>NeedIt Event</suffix><sys_class_name>sysevent_register</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-02 05:41:11</sys_created_on><sys_id>c092588a1be770100a9acae0604bcb8b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.NeedIt Event</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sysevent_register_c092588a1be770100a9acae0604bcb8b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-02 05:41:11</sys_updated_on><table>x_58872_needit_needit</table></sysevent_register></record_update>]]></payload>
+        <payload_hash>-603861069</payload_hash>
+        <record_name>x_58872_needit.NeedIt Event</record_name>
+        <reverted_from/>
+        <source>236efcb41bab30100a9acae0604bcb8e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-02 05:41:11</sys_created_on>
+        <sys_id>d8b254821be770100a9acae0604bcb49</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17cdf2a6ab20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-02 05:41:11</sys_updated_on>
+        <type>Event Registration</type>
+        <update_guid>14b25482fee770105383a7013def2849</update_guid>
+        <update_guid_history>14b25482fee770105383a7013def2849:-603861069</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-02 05:41:20</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_register">sysevent_register</sys_db_object>
+        <sys_id>0414277c28cc4a6f816ccce7dd18c3f1</sys_id>
+        <sys_metadata>c092588a1be770100a9acae0604bcb8b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.NeedIt Event</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">08848ad91b67b0100a9acae0604bcb40</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sysevent_register_c092588a1be770100a9acae0604bcb8b</sys_update_name>
+        <sys_update_version display_value="sysevent_register_c092588a1be770100a9acae0604bcb8b">d8b254821be770100a9acae0604bcb49</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-02 05:41:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
